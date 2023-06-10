@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include<LNEffects.h>
-
+// the new branch
 // put function declarations here:
 int myFunction(int, int);
 
